@@ -106,7 +106,7 @@
       "genre": "",
       "artist": "Ledisi"
     },
-  {
+    {
       "url": "https://ondemand.npr.org/npr-mp4/npr/ascvid/2017/11/20171120_ascvid_davidgreilsammer-n.mp4?orgId=1&topicId=1039&aggIds=92071316&d=813&story=564823034&ft=nprml&f=",
       "title": "David Greilsammer: Tiny Desk Concert",
       "storyDate": "Fri, 24 Nov 2017 05:00:15 -0500",
@@ -182,6 +182,6 @@
       "storyDate": "Sat, 25 Oct 2014 08:03:13 -0400",
       "genre": "Classical",
       "artist": "Danish String Quartet"
-    },
+    }
   ]
 }
