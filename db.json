@@ -183,26 +183,5 @@
       "genre": "Classical",
       "artist": "Danish String Quartet"
     },
-    {
-      "url": "https://ondemand.npr.org/npr-mp4/npr/ascvid/2013/06/20130614_ascvid_billybragg-n.mp4?orgId=1&topicId=1110&aggIds=92071316&d=1274&story=192685157&ft=nprml&f=",
-      "title": "Billy Bragg: Tiny Desk Concert",
-      "storyDate": "Mon, 17 Jun 2013 14:12:00 -0400",
-      "genre": "Folk",
-      "artist": "Billy Bragg"
-    },
-    {
-      "url": "https://ondemand.npr.org/npr-mp4/npr/ascvid/2014/01/20140102_ascvid_preservationhall-n.mp4?orgId=1&topicId=1110&aggIds=347174579,347174484,92071316&d=1157&story=255287618&ft=nprml&f=",
-      "title": "Preservation Hall Jazz Band: Tiny Desk Concert",
-      "storyDate": "Sat, 21 Dec 2013 08:00:00 -0500",
-      "genre": "Jazz",
-      "artist": "Preservation Hall Jazz Band"
-    },
-    {
-      "url": "https://ondemand.npr.org/npr-mp4/npr/ascvid/2011/11/20111130_ascvid_tuneyards.mp4?orgId=1&topicId=1110&aggIds=92071316&d=871&story=142861581&ft=nprml&f=",
-      "title": "tUnE-yArDs: Tiny Desk Concert",
-      "storyDate": "Thu, 01 Dec 2011 08:00:00 -0500",
-      "genre": "Rock",
-      "artist": "tUnE-yArDs"
-    },
   ]
 }
